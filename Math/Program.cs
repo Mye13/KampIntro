@@ -6,10 +6,9 @@ namespace Math
     {
         static void Main(string[] args)
         {
-
             DortIslem dortIslem = new DortIslem();
             dortIslem.Topla(1, 2);
-            dortIslem.Cikar(4,6);
+            dortIslem.Cikar(4, 6);  
         }
     }
 }
